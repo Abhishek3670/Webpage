@@ -1,0 +1,12 @@
+$dropdown-link-color: rgb(255, 255, 255);
+$dropdown-link-hover-color: #fff;
+$dropdown-link-hover-bg: rgb(240, 127, 62);
+$navbar-dark-hover-color: rgb(255, 115, 34);
+$navbar-dark-active-color: rgb(255, 115, 34);
+$dropdown-bg: #343a40;
+$h5-font-size: 32px;
+
+$theme-colors: (
+  "primary": #ff7330,
+);
+@import "./node_modules/bootstrap/scss/bootstrap";
